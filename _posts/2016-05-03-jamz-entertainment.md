@@ -5,21 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Jamz Entertainment offers Silent Disco Events, Wedding, High School Prom, Nightclub DJ's and full live bands."
-datePublished: '2016-05-03T06:22:10.691Z'
-dateModified: '2016-05-03T06:13:53.179Z'
+datePublished: '2016-05-03T06:45:44.272Z'
+dateModified: '2016-05-03T06:35:48.557Z'
 title: Jamz Entertainment
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-03-jamz-entertainment.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-03-jamz-entertainment.md
-published: true
+starred: true
 url: jamz-entertainment/index.html
 _type: Article
 
